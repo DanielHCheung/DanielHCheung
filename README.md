@@ -1,8 +1,6 @@
-## My Blog is [DanielData.com](https://danieldata.com)
+## Hi there 👋 My Blog is [DanielData.com](https://danieldata.com)
 
-## Hi there 👋 
-
-Daniel Cheung, MS in Data Science
+## Daniel Cheung, MS in Data Science
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 <!--
