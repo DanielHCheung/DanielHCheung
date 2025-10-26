@@ -1,6 +1,10 @@
-## Hi there 👋
+## My Blog is [DanielData.com](https://danieldata.com)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=light&font=Esteban&ext=heatmap)
+## Hi there 👋 
+
+Daniel Cheung, MS in Data Science
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 <!--
 **DanielHCheung/DanielHCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
