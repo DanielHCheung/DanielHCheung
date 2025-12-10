@@ -2,6 +2,10 @@
 
 ## Daniel Cheung, MS in Data Science
 
+Statistics, Data Analysis, Data Modeling, Time Series
+
+Python (NumPy, Pandas), MySQL, SQLite
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 <!--
 **DanielHCheung/DanielHCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
