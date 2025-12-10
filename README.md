@@ -2,7 +2,7 @@
 
 ## Daniel Cheung, MS in Data Science
 
-A statistics guy with knowledge in some CS is using technology to power everything.
+A statistics guy with exposure in CS is using technology to power everything.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 <!--
