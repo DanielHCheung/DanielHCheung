@@ -2,9 +2,7 @@
 
 ## Daniel Cheung, MS in Data Science
 
-Statistics, Data Analysis, Data Modeling, Time Series
-
-Python (NumPy, Pandas), MySQL, SQLite
+A statistics guy with knowledge in some CS is using technology to power everything.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 <!--
