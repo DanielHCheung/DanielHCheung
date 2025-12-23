@@ -1,6 +1,6 @@
 ## Hi there 👋 My Blog is [DanielData.com](https://danieldata.com)
 
-## Daniel Cheung, MS in Data Science
+## Daniel Cheung, MS in Data Science @ Stony Brook University
 
 A statistics guy with exposure in CS is using technology to power everything.
 
