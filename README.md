@@ -5,6 +5,7 @@
 A statistics guy with exposure in CS is using technology to power everything.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
+![Codewars](https://www.codewars.com/users/DanielHCheung/badges/large?theme=light)
 <!--
 **DanielHCheung/DanielHCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
