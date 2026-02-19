@@ -1,4 +1,4 @@
-## Hi there 👋 My Blog is [DanielData.com](https://danieldata.com) and [Academic Page](https://danieldata.com/ac)
+## Hi there 👋 My Blog is [DanielData.com](https://danieldata.com) 
 
 ## Daniel Cheung, MS in Data Science @ Stony Brook University
 
