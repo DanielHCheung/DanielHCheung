@@ -12,10 +12,10 @@ A statistics guy with exposure in CS is using technology to power everything.
 - Python Programming
 - Linux/Docker
 
-
+<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DanielHCheung?theme=nord&font=Esteban&ext=heatmap)
 
-![Codewars](https://www.codewars.com/users/DanielHCheung/badges/large?theme=light)
+![Codewars](https://www.codewars.com/users/DanielHCheung/badges/large?theme=light) -->
 
 You can send me email or [issues](https://github.com/DanielHCheung/DanielHCheung/issues)!
 
