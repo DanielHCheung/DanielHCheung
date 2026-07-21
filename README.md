@@ -20,7 +20,7 @@ A statistics guy with exposure in CS is using technology to power everything.
 
 -->
 
-You can send me email or [issues](https://github.com/DanielHCheung/DanielHCheung/issues)!
+Let me know any questions/issues! Please send me email or [issues](https://github.com/DanielHCheung/DanielHCheung/issues)!
 
 
 
