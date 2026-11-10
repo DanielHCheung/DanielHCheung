@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Cheung 👋
 
 [![Blog](https://img.shields.io/badge/Blog-DanielData.com-388e3c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danieldata.com)
-[![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Full--Time%20Roles-blue?style=for-the-badge)](mailto:your-email@example.com)
+[![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Full--Time%20Roles-blue?style=for-the-badge)](mailto:danielhcheung@outlook.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) -->
 
 🎓 **MS in Data Science @ Stony Brook University**  
